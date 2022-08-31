@@ -1,2 +1,1 @@
-Youve completed the quiz successfully! > README.md
-echo Youve completed the quiz successfully! 
+Display current directory contents in a long format
