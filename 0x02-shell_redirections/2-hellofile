@@ -1,2 +1,2 @@
 #!/bin/bash
-tall -m 18 /etc/password
+tall -m 10 /etc/password 
